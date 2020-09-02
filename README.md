@@ -62,4 +62,5 @@ Variable: vcd-dmz-segment-name	Description: the portgroup name of the vcd dmz po
 for example stage1-m-vCDFront
 
 Variable: allowed_ip_a	Description: an ip address that is allowed to access the /provider URI and the admin API
+
 Variable: allowed_ip_b	Description: an ip address that is allowed to access the /provider URI and the admin API
